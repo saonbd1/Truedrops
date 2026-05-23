@@ -386,7 +386,7 @@ function Home() {
             <div className="w-8 h-8 bg-gradient-to-br from-violet-500 to-indigo-600 rounded-lg flex items-center justify-center">
               <Coins className="w-4 h-4 text-white" />
             </div>
-            <span className="font-bold text-lg tracking-tight">AirdropHunter</span>
+            <span className="font-bold text-lg tracking-tight">TrueDrops.XYZ</span>
           </div>
           <nav className="hidden md:flex items-center gap-6 text-sm text-gray-400">
             <a href="#" className="hover:text-white transition-colors">Listings</a>
@@ -541,7 +541,7 @@ function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-600">
           <div className="flex items-center gap-2">
             <Coins className="w-4 h-4 text-violet-400" />
-            <span className="font-bold text-gray-400">AirdropHunter</span>
+            <span className="font-bold text-gray-400">TrueDrops.XYZ</span>
             <span>© 2026</span>
           </div>
           <div className="flex items-center gap-4">
